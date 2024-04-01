@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aungmyatmoe11" alt="aungmyatmoe11" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/aungmyatmoe117" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aungmyatmoe117?logo=twitter&style=for-the-badge" alt="https://twitter.com/aungmyatmoe117" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://aungmyatmoe.pages.dev/](https://aungmyatmoe.pages.dev/)
 
 <h3 align="left">Connect with me:</h3>
