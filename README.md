@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aung Myat Moe</h1>
-<h3 align="center">Having accrued close to 4<sup>th</sup> years of experience in web development, I possess specialized expertise across various technologies. I excel in frontend development using JavaScript,Vue.js, React.js, and Tailwind CSS, while also proficiently handling backend projects with PHP, Laravel, and Node.js.My primary objective revolves around ensuring seamless user experiences and crafting scalable web applications. Let‘s work together to bring your vision to life.</h3>
+<h3 align="center">Having accrued over 5<sup>th</sup> years of experience in web development, I possess specialized expertise across various technologies. I excel in frontend development using JavaScript,Vue.js, React.js, and Tailwind CSS, while also proficiently handling backend projects with PHP, Laravel, and Node.js.My primary objective revolves around ensuring seamless user experiences and crafting scalable web applications. Let‘s work together to bring your vision to life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aungmyatmoe11&label=Profile%20views&color=0e75b6&style=flat" alt="aungmyatmoe11" /> </p>
 
