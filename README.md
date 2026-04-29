@@ -1,24 +1,78 @@
-<h1 align="center">Hi 👋, I'm Aung Myat Moe</h1>
-<h3 align="center">Having accrued over 5<sup>th</sup> years of experience in web development, I possess specialized expertise across various technologies. I excel in frontend development using JavaScript,Vue.js, React.js, and Tailwind CSS, while also proficiently handling backend projects with PHP, Laravel, and Node.js.My primary objective revolves around ensuring seamless user experiences and crafting scalable web applications. Let‘s work together to bring your vision to life.</h3>
+<h1 align="center">Hi, I'm Aung Myat Moe</h1>
+<h3 align="center">Full-Stack Web Developer building scalable, user-focused applications with Laravel, React, Vue, Node.js, Tailwind CSS, and AWS.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aungmyatmoe11&label=Profile%20views&color=0e75b6&style=flat" alt="aungmyatmoe11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aungmyatmoe11" alt="aungmyatmoe11" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://aungmyatmoe.pages.dev/](https://aungmyatmoe.pages.dev/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/aungmyatmoe117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aungmyatmoe117" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aung-myat-moe-bb7bb8286/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aung-myat-moe-bb7bb8286/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/aungmyatmoe.ja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aungmyatmoe.ja/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aungmyatmoe11&label=Profile%20views&color=0e75b6&style=flat" alt="Aung Myat Moe profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://aungmyatmoe.pages.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/aungmyatmoe117" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/aung-myat-moe-bb7bb8286/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/aungmyatmoe.ja/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungmyatmoe11&show_icons=true&locale=en&layout=compact" alt="aungmyatmoe11" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aungmyatmoe11&show_icons=true&locale=en" alt="aungmyatmoe11" /></p>
+### About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aungmyatmoe11&" alt="aungmyatmoe11" /></p>
+I started coding in **June 2020** and now have **5+ years** of hands-on web development experience. I enjoy turning business ideas into clean, maintainable, production-ready applications with strong frontend experiences and reliable backend architecture.
+
+- I build full-stack web applications with **Laravel, PHP, Node.js, React, Vue, and Tailwind CSS**.
+- I focus on **scalable architecture, clean UI implementation, API design, database design, and deployment workflows**.
+- I work with AWS services for application hosting, storage, networking, and cloud-ready delivery.
+- All of my projects are available at [aungmyatmoe.pages.dev](https://aungmyatmoe.pages.dev/).
+
+### Current Focus
+
+- Building modern frontend experiences with **React, Next.js, Vue.js, TypeScript, and Tailwind CSS**.
+- Developing backend systems with **Laravel, PHP, Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Redis, and Firebase**.
+- Improving cloud deployment skills with **AWS EC2, S3, RDS, CloudFront, Route 53, IAM, and deployment automation**.
+- Creating applications that are fast, secure, maintainable, and easy to scale.
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,mysql,postgres,mongodb,redis,firebase,aws,docker,git,github" alt="HTML, CSS, JavaScript, TypeScript, Vue, React, Next.js, Tailwind CSS, Bootstrap, PHP, Laravel, Node.js, Express, MySQL, PostgreSQL, MongoDB, Redis, Firebase, AWS, Docker, Git, GitHub" />
+</p>
+
+### AWS & Cloud
+
+| Area | Tools / Services |
+| --- | --- |
+| Compute & Hosting | AWS EC2, Railway, Cloudflare Pages |
+| Storage & Assets | AWS S3, CloudFront |
+| Databases | AWS RDS, MySQL, PostgreSQL, MongoDB, Redis |
+| Networking | Route 53, DNS, SSL, CDN delivery |
+| Security | IAM basics, environment configuration, secure deployment practices |
+
+### GitHub Highlights
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aungmyatmoe11&theme=flat&no-frame=true&margin-w=8&margin-h=8" alt="Aung Myat Moe GitHub trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aungmyatmoe11&show_icons=true&locale=en&theme=default" alt="Aung Myat Moe GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungmyatmoe11&show_icons=true&locale=en&layout=compact&theme=default" alt="Aung Myat Moe top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aungmyatmoe11" alt="Aung Myat Moe GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  I am always open to discussing full-stack development, cloud deployment, and product ideas. Let's build something useful.
+</p>
