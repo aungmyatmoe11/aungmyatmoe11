@@ -24,7 +24,7 @@
 
 ### About Me
 
-I started coding in **June 2020** and now have **5+ years** of hands-on web development experience. I enjoy turning business ideas into clean, maintainable, production-ready applications with strong frontend experiences and reliable backend architecture.
+I started coding in **June 2020** and now have **6+ years** of hands-on web development experience. I enjoy turning business ideas into clean, maintainable, production-ready applications with strong frontend experiences and reliable backend architecture.
 
 - I build full-stack web applications with **Laravel, PHP, Node.js, React, Vue, and Tailwind CSS**.
 - I focus on **scalable architecture, clean UI implementation, API design, database design, and deployment workflows**.
