@@ -68,7 +68,7 @@ I started coding in **June 2020** and now have **6+ years** of hands-on web deve
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aungmyatmoe11" alt="Aung Myat Moe GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=aungmyatmoe11&v=2" alt="Aung Myat Moe GitHub streak" />
 </p>
 
 ---
